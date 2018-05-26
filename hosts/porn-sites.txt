@@ -2012,6 +2012,7 @@
 127.0.0.1       gabe6146.tumblr.com
 127.0.0.1       gabrio.com
 127.0.0.1       gaggedandtied.tumblr.com
+127.0.0.1       gahdmmjap.blogspot.tw
 127.0.0.1       galerie.olduvsen.cz
 127.0.0.1       galleries1.mastersitepass.com
 127.0.0.1       galleries2.ftvcash.com
